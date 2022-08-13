@@ -281,4 +281,11 @@ h1{
   transform: translateX(10rem);
   z-index: -1;
  }
+ .out-border{
+  width: 20rem;
+ }
+ .top-header{
+  margin-top: -1.2rem;
+ }
+ .
 }
